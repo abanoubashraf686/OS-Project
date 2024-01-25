@@ -25,10 +25,6 @@ Here's an overview of the project's progress as depicted in our TODO list:
 
 ![TODO List Progress](https://github.com/abanoubashraf686/OS-Project/assets/92957180/3dfa020c-5b62-4406-906b-1bfafb015511)
 
-## Contribution
-
-We welcome contributions to this project. If you're interested in improving or adding to the project, feel free to fork the repository and submit a pull request with your changes.
-
 ## License
 
 This project is released under an open-source license. Feel free to use it for educational, personal, or any other purposes.
