@@ -2,10 +2,6 @@
 
 Welcome to the Operating Systems Development Project repository! This project represents a comprehensive journey through the key components of operating system development, meticulously structured into three distinct phases or milestones. Each phase was rigorously tested and validated by our dedicated team, ensuring a robust and fully functional outcome.
 
-## Project Overview
-
-This project was designed and supervised by Dr. Ahmed Salah, a renowned expert in the field of operating systems. The aim was to create a hands-on learning experience, providing insight into the intricate details of OS development. The project has been divided into three milestones, each focusing on a different aspect of operating system design and implementation.
-
 ### Milestones Overview
 
 - **Milestone 1 (MS1):** A deep dive into dynamic memory allocation and system call handling.
@@ -18,11 +14,16 @@ For detailed information on each milestone, please refer to the following docume
 - [MS2 Documentation](https://docs.google.com/presentation/d/1zD6LpLVObX0YeBEcuBZxhqyG8nn_at4p/edit?usp=sharing&ouid=114294364593949962074&rtpof=true&sd=true)
 - [MS3 Documentation](https://docs.google.com/presentation/d/1zrqYWeoN-b0lInkwPTw0MPEQIrBEll9r/edit?usp=sharing&ouid=114294364593949962074&rtpof=true&sd=true)
 
-## TODO List
+## Project Status
 
-Stay updated with the project's progress and future enhancements. Check out our detailed TODO list:
+This project has reached its completion, and currently, there are no planned updates or future developments. The repository serves as a comprehensive resource for those interested in operating system development.
 
-![TODO List](https://github.com/abanoubashraf686/OS-Project/assets/92957180/3dfa020c-5b62-4406-906b-1bfafb015511)
+## Progress Overview
+This project was designed and supervised by Dr. Ahmed Salah, a renowned expert in the field of operating systems. The aim was to create a hands-on learning experience, providing insight into the intricate details of OS development. The project has been divided into three milestones, each focusing on a different aspect of operating system design and implementation.
+
+Here's an overview of the project's progress as depicted in our TODO list:
+
+![TODO List Progress](https://github.com/abanoubashraf686/OS-Project/assets/92957180/3dfa020c-5b62-4406-906b-1bfafb015511)
 
 ## Contribution
 
