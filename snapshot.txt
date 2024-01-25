@@ -1,0 +1,25 @@
+run fib - Fibonacci Recursive [User Program]
+run qs - Quicksort with NO memory leakage [User Program]
+run ms1 - Mergesort with NO memory leakage [User Program]
+run ms2 - Mergesort that cause memory leakage [User Program]
+FOS> run fos_data_on_stack 6
+
+Environment Id= 2049
+user stack contains 512 integer
+[fos_data_on_stack 2049] **************************************
+[fos_data_on_stack 2049] Num of PAGE faults = 4, modif = 0
+[fos_data_on_stack 2049] # PAGE IN (from disk) = 3, # PAGE OUT (on disk) = 0, #
+NEW PAGE ADDED (on disk) = 0
+[fos_data_on_stack 2049] Num of clocks = 0
+[fos_data_on_stack 2049] **************************************
+FOS> run fos_data_on_stack 3
+
+Environment Id= 2050
+user stack contains 512 integer
+[fos_data_on_stack 2050] **************************************
+[fos_data_on_stack 2050] Num of PAGE faults = 26, modif = 0
+[fos_data_on_stack 2050] # PAGE IN (from disk) = 33, # PAGE OUT (on disk) = 13,
+# NEW PAGE ADDED (on disk) = 1
+[fos_data_on_stack 2050] Num of clocks = 0
+[fos_data_on_stack 2050] **************************************
+FOS> run ß
