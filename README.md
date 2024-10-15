@@ -19,19 +19,11 @@ For detailed information on each milestone, please refer to the following docume
 - [MS2 Documentation](https://docs.google.com/presentation/d/1zD6LpLVObX0YeBEcuBZxhqyG8nn_at4p/edit?usp=sharing&ouid=114294364593949962074&rtpof=true&sd=true)
 - [MS3 Documentation](https://docs.google.com/presentation/d/1zrqYWeoN-b0lInkwPTw0MPEQIrBEll9r/edit?usp=sharing&ouid=114294364593949962074&rtpof=true&sd=true)
 
-## Project Status
-
-This project has reached its completion, and currently, there are no planned updates or future developments. The repository serves as a comprehensive resource for those interested in operating system development.
-
 ## Progress Overview
 
 Here's an overview of the project's progress as depicted in our TODO list:
 
 ![TODO List Progress](https://github.com/abanoubashraf686/OS-Project/assets/92957180/3dfa020c-5b62-4406-906b-1bfafb015511)
-
-## License
-
-This project is released under an open-source license. Feel free to use it for educational, personal, or any other purposes.
 
 ## Acknowledgments
 
